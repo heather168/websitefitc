@@ -1,4 +1,28 @@
 body{
-  background-color: blue;
+  background-color: orange;
   color: yellow;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+color: red;
+}
+
+header {
+  color: rbg(44, 44, 44);
+}
+
+section {
+  color: blue;
+  background-color: grey;
+}
+
+p {
+  color: black;
+}
+footer {
+  color: black;
 }
