@@ -1,0 +1,48 @@
+/* website styles */
+
+* {
+  font-size: 14px;
+}
+{body
+  background-color: black;
+  color: yellow;
+  font-family: 'Libre Baskerville', serif;
+
+}
+
+h1 {
+  color: red;
+  font-family: helvetica, Arial;
+/*  font-size 24pt;*/
+}
+
+h2 {
+color:blue;
+font-size: 18px;
+
+}
+h3 {
+  font-size: 18px;
+}
+
+header {
+  color: rbg(44, 44, 44);
+  /* background-color-red;*/
+}
+
+section p {
+  color: blue;
+  font-size: 24pt;
+
+  background-color: purple;
+  /*background-grey*/
+
+}
+
+p {
+  color: green;
+
+}
+footer {
+  color: green;
+}
