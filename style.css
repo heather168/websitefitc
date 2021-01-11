@@ -52,11 +52,14 @@ text-align:justify;
 
 }
 
-a {
+a: hover {
   color: red;
   text-decoration: underline;
 }
 footer {
   color: green;
   background-color: white;
+}
+
+a {text-decoration: none;
 }
