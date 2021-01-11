@@ -37,14 +37,16 @@ header {
 section p {
   color: blue;
   font-size: 24pt;
+  /* background- color: grey; */
 
   background-color: purple;
-  /*background-grey*/
+  /* background-grey */
 
 }
 
 p {
   color: green;
+  /* font-size: 24; */
 
 
 line-height 2;
@@ -56,9 +58,17 @@ a: hover {
   color: red;
   text-decoration: underline;
 }
+
 footer {
+
   color: green;
-  background-color: white;
+  background-color: whitesmoke;
+  a:link,
+  a:focus,
+  a: active,
+  }
+  a: visited,
+  color: yellow;
 }
 
 a {text-decoration: none;
