@@ -10,25 +10,23 @@
   font-family: 'Libre Baskerville', serif;
 
 font-weight: lighter;
-}
 
 h1 {
   color: red;
   font-family: helvetica, Arial;
-font-size 24px;
-font-style: italic;
+  font-style: italic;
 }
 
+text-align: right;
 h2 {
-color:blue;
-font-size: 18px;
-font-weight: 100;
+ font-size: 18px;
+   font-weight: 100;
 font-style: normal;
 
-}
 h3 {
   font-size: 18px;
   font-style: oblique;
+  text-align: right;
 }
 
 header {
@@ -48,7 +46,17 @@ section p {
 p {
   color: green;
 
+
+line-height 2;
+text-align:justify;
+
+}
+
+a {
+  color: red;
+  text-decoration: underline;
 }
 footer {
   color: green;
+  background-color: white;
 }
