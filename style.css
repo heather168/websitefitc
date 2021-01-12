@@ -96,10 +96,11 @@ line-height 2;
 text-align:justify;
 
 }
-.title [
+.title {
 color: blue;
 font-size: 46px;
 text-decoration: underline;
+
 
 }
 
