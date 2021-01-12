@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf=8">
+<title>the benefits of homeschooling</title>
+</head>
+
+<body>
+  <!-- home shooling -->
+  <homeschooling benefits you can teach your children things that aren't taught in school.</>
+
+
+
+
+<!--insert picture-->
+
+
+    more stuff
+
+    <p>Before you start make sure to check what the requirements are. Each province has different rules. decide what you will teach it can be traditional which follows the schools curriculum.
+      or untraditional which allows you to teach things not taught in school. there are alot of helpful websites that explain what homeschooling is.
+      in bc you must register with your schoolto recive the funding.
+      traditional learning includes
+      english
+      math
+      science
+      social studies
+      history
+
+      untradional learning can be anything
+      budgeting
+      taking care of a car
+      learning to cook
+      doing laundry
+
+      in bc there are funding grants public schools receive $250.00 for each registered homeshooled child.
+      you must register by september 30 every year
+      this is a link that will explain more on registering for homeschooling
+      <http://www.bcad.gov.bc/distlearning/dlvshomeschool.htm>
+      this is a list of local support groups in bc.
+      <https://bcea.ca/getting-started/support-groups/bc-support-group-list/>
+
+
+
+      <p/>
+      <div>
+        </p>
+        <div>
+        </div>
+      </div>
+    </section>
+    <!--using lists-->
+    <h2>ordered list - most important first</h2>
+    <ol>
+        <li>most important</li>
+          <li>next most important</li>
+          <li>least important</li>
+    </ul>
+
+  </section>
+  <ul>
+      <li>item 1 </li>
+      <li>item 2 - just as important</li>
+      <li>item 3 - just as important<li/>
+    </ul>
+  </section>
+
+
+    <footer>
+
+      <p> heather wight</p>
+    </footer>
+</body>
+</html>
