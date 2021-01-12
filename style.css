@@ -42,12 +42,17 @@ h3 {
 header {
   color: rbg(44, 44, 44);
   /* background-color-red;*/
+  border-bottom: 5px solid grey;
+  margin-bottom: 20px;
 }
 
 section p {
-  color: blue;
-  font-size: 24pt;
-  /* background- color: grey; */
+  color: black;
+  font-size: 12pt;
+   background - color: grey;
+   border; 1px solid gainsboro;
+   margin: 30px;
+   padding: 30px;
 }
 
   background-color: purple;
