@@ -1,8 +1,12 @@
 /* website styles */
 
 * {
-  font-size: 14px;
+  font-size: 16px;
 
+*{
+  font-size: 100;
+  border: 1px solod red;
+}
 }
 {body
   background-color: black;
@@ -38,6 +42,7 @@ section p {
   color: blue;
   font-size: 24pt;
   /* background- color: grey; */
+}
 
   background-color: purple;
   /* background-grey */
