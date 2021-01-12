@@ -3,10 +3,10 @@
 * {
   font-size: 16px;
 
-*{
+ * {
   font-size: 100;
   border: 1px solid red;
-  margin:o;
+  margin: o;
   * line-height: 1;
   box-sizing: content-box;
 }
@@ -94,6 +94,12 @@ header, section, footer padding: 30px;
 
 line-height 2;
 text-align:justify;
+
+}
+.title [
+color: blue;
+font-size: 46px;
+text-decoration: underline;
 
 }
 
