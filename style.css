@@ -95,7 +95,7 @@ header, section, footer {
 }
 
 .title {
-color: blue;
+color: black;
 font-size: 46px;
 text-decoration: underline;
 }
@@ -134,6 +134,6 @@ a:active {
 .banner {
   height: 350px;
   background-image: url(images/sunset.jpg);
-  background-size: cover;
+  background-size: center;
   margin: 0;
 }
