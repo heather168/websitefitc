@@ -121,3 +121,7 @@ a:active {
   a:visited {
   color: yellow;
 }
+
+.container {
+   max-width:  100px;
+}
