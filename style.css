@@ -126,9 +126,9 @@ a:active {
    max-width: 1000px;
    margin: o auto;
 }
->container2 {
+.container2 {
   max-width:
 }
-div{
-  margin:
+div {
+  margin: o auto;
 }
