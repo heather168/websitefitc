@@ -21,7 +21,7 @@ a img {
 .banner {
   height: 350px;
   background-image: url(images/banner.jpg);
-  background-size: cover;
+  background-size: co
 }
 }
 /* background-size: 25%; */
@@ -140,10 +140,13 @@ a:active {
    margin: o auto;
 }
 .container2 {
-  max-width: 1000%
+  max-width: 1000%;
 
 }
-.banner {image:.jpg}
-div {
-  margin: o auto;
+
+.banner {
+  height: 350px;
+  background-image: url (images/banner.jpg);
+  background-size: cover;
+  margin: 0;
 }
