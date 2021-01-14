@@ -1,23 +1,30 @@
 /* website styles */
 
 * {
-  font-size: 16px;
+  font-size: 28px;
   /* border: 1px solid red; */
   margin: 0;
   line-height: 1;
   box-sizing: content-box;
 }
 
+body {
+  background-image: url(images/sunset.jpg);
+  background-size; 50%
+  /* background-repeat: no- repeat; *
+  /
+}
 a img {
   width: 40px;
   height: 30px;
-  <h1 class/>
-background-image: url (images/pattern.png);
+
+
+/* background-size: 100%;
 }
 
 body {
   margin:10px 20px 10px;
-  background-color: grey;
+  background-color: pink;
   color: whitesmoke;
 
   font-family: 'Libre Baskerville', serif;
@@ -35,7 +42,7 @@ h2 {
  font-size: 18px;
  font-weight: 100;
  font-style: normal;
- text-align: right;
+ text-align:center;
 }
 
 h3 {
