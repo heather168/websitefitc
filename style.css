@@ -123,10 +123,12 @@ a:active {
 }
 
 .container {
-   max-width:  100px;
+   max-width: 1000px;
    margin: o auto;
 }
-
+>container2 {
+  max-width:
+}
 div{
   margin:
 }
