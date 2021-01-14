@@ -11,16 +11,16 @@
 body {
   background-image: url(images/sunset.jpg);
   background-size; 25%;
-  /* background-repeat: no- repeat; *
-  /
+
+  /* background-repeat: no- repeat; */
+
 }
 a img {
   width: 40px;
   height: 30px;
-
-
-/* background-size: 25%;
+.banner: 35PX;
 }
+/* background-size: 25%; */
 
 body {
   margin:10px 20px 10px;
@@ -134,8 +134,10 @@ a:active {
    margin: o auto;
 }
 .container2 {
-  max-width:
+  max-width: 1000%
+
 }
+.banner {my-life-through-a-lens-bq31L0jQAjU-unsplash}
 div {
   margin: o auto;
 }
