@@ -107,7 +107,7 @@ a:hover {
 
 footer {
   color: green;
-  background-color: whitesmoke;
+  background-color: pink;
 }
 
 a:link,
@@ -126,7 +126,7 @@ a:active {
    margin: 0 auto;
 }
 
-.container2 {
+.container 2 {
   max-width: 100%;
 
 }
