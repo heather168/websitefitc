@@ -18,14 +18,20 @@ body {
 a img {
   width: 40px;
   height: 30px;
-.banner: 35PX;
+.banner {
+  height: 350px;
+  background-image: url(images/banner.jpg);
+  background-size: cover;
+}
 }
 /* background-size: 25%; */
 
 body {
-  margin:10px 20px 10px;
   background-color: pink;
   color: whitesmoke;
+  /* font-family: east sea dokda, cursive; */
+  /* font-weight: bold;*/
+  /*margin: 50px; */
 
   font-family: 'Libre Baskerville', serif;
   margin: 50px;
@@ -137,7 +143,7 @@ a:active {
   max-width: 1000%
 
 }
-.banner {my-life-through-a-lens-bq31L0jQAjU-unsplash}
+.banner {image:.jpg}
 div {
   margin: o auto;
 }
