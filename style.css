@@ -130,8 +130,9 @@ a:active, {
 
 .banner {
   height: 350px;
-  background-image: url(images/banner.jpg);
-  
+  background-image: url(unsplash.jpg);
+
+}
 
   background-size: center;
   margin: 0;
