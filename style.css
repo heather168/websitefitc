@@ -132,6 +132,7 @@ a:active, {
   height: 350px;
   background-image: url(images/banner.jpg);
   background-size: contain;
+  margin-top: 20px;
   background-postion: 50% right;
 
 }
