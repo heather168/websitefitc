@@ -131,8 +131,8 @@ a:active, {
 .banner {
   height: 350px;
   background-image: url(images/banner.jpg);
-  background-size:contain;
-  background-postion: center;
+  background-size: contain;
+  background-postion: 50% right;
 
 }
 
