@@ -25,7 +25,7 @@ a img {
 
 h1 {
   margin:30px 0;
-  color: red;
+  color: black;
   font-family: helvetica, Arial;
   font-style: italic;
 }
@@ -66,7 +66,7 @@ img {
 }
 
 section {
-  background-color: whitesmoke;
+  background-color:aqua;
   /* background-whitesmoke */
 }
 
@@ -88,7 +88,7 @@ h1, h2, h3 {
 
 header, section, footer {
   padding: 30px;
-  color: black;
+  color: blue;
   /* font-size: 24; */
   line-height: 2;
  /* text-align: justify; */
@@ -106,7 +106,7 @@ a:hover {
 }
 
 footer {
-  color: green;
+  color: blue;
   background-color: pink;
 }
 
