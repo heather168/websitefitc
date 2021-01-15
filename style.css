@@ -18,8 +18,8 @@ body {
 }
 
 a img {
-  width: 40px;
-  height: 30px;
+  width: 20px;
+  height: 20px;
 }
 /* background-size: 25%; */
 
@@ -117,9 +117,6 @@ a:active {
   color: blue;
 }
 .title
-  a:visited {
-  color: yellow;
-}
 
 .container {
    max-width: 1000px;
