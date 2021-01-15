@@ -112,7 +112,7 @@ footer {
 
 a:link,
 a:focus,
-a:active {
+a:active, {
   text-decoration: underline;
   color: blue;
 }
@@ -130,7 +130,7 @@ a:active {
 
 .banner {
   height: 350px;
-  background-image: url(images/sunset.jpg);
+  background-image: url(images/cat.jpg);
   background-size: center;
   margin: 0;
 }
